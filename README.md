@@ -24,7 +24,7 @@ Among skin cancer diseases, melanoma is one of the most common and most dangerou
 ## Directory structure and files
 
 
-
+![directory structure](images/directorystructure.png)
 
 
 The used dataset can be downloaded here:
