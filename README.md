@@ -33,7 +33,7 @@ https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T
 
 The full article is available here:
 
-https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T
+https://www.nature.com/articles/sdata2018161
 
 
 
