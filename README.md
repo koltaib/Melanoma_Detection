@@ -6,7 +6,14 @@
 
 ## Table of contents
 
-
+* Melanoma Detection
+   * Table of contents
+   * General info
+   * Directory structure and files
+   * Technologies
+   * Setup
+   * Results
+   * Contact
 
 ## General info
 
