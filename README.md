@@ -6,7 +6,7 @@
 
 ## Table of contents
 
-[TOC]
+
 
 ## General info
 
@@ -16,7 +16,7 @@ Among skin cancer diseases, melanoma is one of the most common and most dangerou
 
 ## Directory structure and files
 
-![MicrosoftTeams-image (3)](/Users/bea/Downloads/MicrosoftTeams-image (3).png)
+
 
 
 
