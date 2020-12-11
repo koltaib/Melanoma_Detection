@@ -95,6 +95,9 @@ With the current hyperparametrization, the models performed as the followings:
 ## Contact
 
 created by Viktor Horváth, Beatrix Koltai and Adrienn Horváth
+
 QuickMaths
+
+BME Copyright
 
 2020.12.11.
