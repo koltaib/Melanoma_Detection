@@ -2,7 +2,7 @@
 
 > Skin cancer detection with artificial intelligence. We analysed different convolutional neural networks for melanoma detection to select the most accurate method for this purpose. In our solution, we used different base models with the same top layers to detect melanoma images from others images.
 
-
+Bemutató videó: https://youtu.be/qg0tBphAYGA
 
 ## Table of contents
 
